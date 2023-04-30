@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<index schemaVersion="1.0.0" xs:noNamespaceSchemaLocation="PackIndex.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+  <vendor>fred-r-perso</vendor>
+  <url>https://github.com/fred-r-perso/cmsis-packs</url>
+  <timestamp>2023-04-30T05:30:00.0000000+02:00</timestamp>
+  <pindex>
+    <pdsc url="https://github.com/fred-r-perso/cmsis-packs/lwfsm" vendor="fred-r-perso" name="lwfsm" version="0.1.0"/>
+  </pindex>
+</index>
